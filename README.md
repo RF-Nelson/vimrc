@@ -1,4 +1,9 @@
-# The Ultimate vimrc
+This is my version of amix's ["Ultimate vimrc"](https://github.com/amix/vimrc)
+
+I'm using a slightly modified "awesome" version. It's mostly the same except for some small tweaks (such as opening files in windowed mode instead of fullscreen).
+<br><br><br>
+This is the original README:
+## The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
 
@@ -9,7 +14,7 @@ There are two versions:
 
 I would of course recommend using the awesome version.
 
-## How to install the Awesome version?
+### How to install the Awesome version?
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
 
 	git clone https://github.com/amix/vimrc.git ~/.vim_runtime
